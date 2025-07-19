@@ -1,0 +1,10 @@
+.home-wrapper {
+  background: linear-gradient(to right, #141e30, #243b55);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-section {
+  flex: 1;
+}
